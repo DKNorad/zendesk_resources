@@ -1,0 +1,51 @@
+value,tag,default
+Alabama,alabama,false
+Alaska,alaska,false
+Arizona,arizona,false
+Arkansas,arkansas,false
+California,california,false
+Colorado,colorado,false
+Connecticut,connecticut,false
+Delaware,delaware,false
+Florida,florida,false
+Georgia,georgia,false
+Hawaii,hawaii,false
+Idaho,idaho,false
+Illinois,illinois,false
+Indiana,indiana,false
+Iowa,iowa,false
+Kansas,kansas,false
+Kentucky,kentucky,false
+Louisiana,louisiana,false
+Maine,maine,false
+Maryland,maryland,false
+Massachusetts,massachusetts,false
+Michigan,michigan,false
+Minnesota,minnesota,false
+Mississippi,mississippi,false
+Missouri,missouri,false
+Montana,montana,false
+Nebraska,nebraska,false
+Nevada,nevada,false
+New Hampshire,new_hampshire,false
+New Jersey,new_jersey,false
+New Mexico,new_mexico,false
+New York,new_york,false
+North Carolina,north_carolina,false
+North Dakota,north_dakota,false
+Ohio,ohio,false
+Oklahoma,oklahoma,false
+Oregon,oregon,false
+Pennsylvania,pennsylvania,false
+Rhode Island,rhode_island,false
+South Carolina,south_carolina,false
+South Dakota,south_dakota,false
+Tennessee,tennessee,false
+Texas,texas,false
+Utah,utah,false
+Vermont,vermont,false
+Virginia,virginia,false
+Washington,washington,false
+West Virginia,west_virginia,false
+Wisconsin,wisconsin,false
+Wyoming,wyoming,false

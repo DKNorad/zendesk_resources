@@ -1,0 +1,197 @@
+value,tag,default
+Afghanistan,afghanistan,false
+Albania,albania,false
+Algeria,algeria,false
+Andorra,andorra,false
+Angola,angola,false
+Antigua and Barbuda,antigua_and_barbuda,false
+Argentina,argentina,false
+Armenia,armenia,false
+Australia,australia,false
+Austria,austria,false
+Azerbaijan,azerbaijan,false
+The Bahamas,the_bahamas,false
+Bahrain,bahrain,false
+Bangladesh,bangladesh,false
+Barbados,barbados,false
+Belarus,belarus,false
+Belgium,belgium,false
+Belize,belize,false
+Benin,benin,false
+Bhutan,bhutan,false
+Bolivia,bolivia,false
+Bosnia and Herzegovina,bosnia_and_herzegovina,false
+Botswana,botswana,false
+Brazil,brazil,false
+Brunei,brunei,false
+Bulgaria,bulgaria,false
+Burkina Faso,burkina_faso,false
+Burundi,burundi,false
+Cambodia,cambodia,false
+Cameroon,cameroon,false
+Canada,canada,false
+Cape Verde,cape_verde,false
+Central African Republic,central_african_republic,false
+Chad,chad,false
+Chile,chile,false
+China,china,false
+Colombia,colombia,false
+Comoros,comoros,false
+Congo (Brazzaville),congo_(brazzaville),false
+Congo (Kinshasa),congo_(kinshasa),false
+Costa Rica,costa_rica,false
+Croatia,croatia,false
+Cuba,cuba,false
+Cyprus,cyprus,false
+Czech Republic,czech_republic,false
+Côte d'Ivoire,côte_d'ivoire,false
+Denmark,denmark,false
+Djibouti,djibouti,false
+Dominica,dominica,false
+Dominican Republic,dominican_republic,false
+Ecuador,ecuador,false
+Egypt,egypt,false
+El Salvador,el_salvador,false
+Equatorial Guinea,equatorial_guinea,false
+Eritrea,eritrea,false
+Estonia,estonia,false
+Eswatini,eswatini,false
+Ethiopia,ethiopia,false
+Fiji,fiji,false
+Finland,finland,false
+France,france,false
+Gabon,gabon,false
+Gambia,gambia,false
+Georgia,georgia,false
+Germany,germany,false
+Ghana,ghana,false
+Greece,greece,false
+Grenada,grenada,false
+Guatemala,guatemala,false
+Guinea,guinea,false
+Guinea-Bissau,guinea-bissau,false
+Guyana,guyana,false
+Haiti,haiti,false
+Holy See,holy_see,false
+Honduras,honduras,false
+Hungary,hungary,false
+Iceland,iceland,false
+India,india,false
+Indonesia,indonesia,false
+Iran,iran,false
+Iraq,iraq,false
+Ireland,ireland,false
+Israel,israel,false
+Italy,italy,false
+Jamaica,jamaica,false
+Japan,japan,false
+Jordan,jordan,false
+Kazakhstan,kazakhstan,false
+Kenya,kenya,false
+Kiribati,kiribati,false
+Korea (North),korea_(north),false
+Korea (South),korea_(south),false
+Kosovo,kosovo,false
+Kuwait,kuwait,false
+Kyrgyzstan,kyrgyzstan,false
+Lao PDR,lao_pdr,false
+Latvia,latvia,false
+Lebanon,lebanon,false
+Lesotho,lesotho,false
+Liberia,liberia,false
+Libya,libya,false
+Liechtenstein,liechtenstein,false
+Lithuania,lithuania,false
+Luxembourg,luxembourg,false
+Madagascar,madagascar,false
+Malawi,malawi,false
+Malaysia,malaysia,false
+Maldives,maldives,false
+Mali,mali,false
+Malta,malta,false
+Marshall Islands,marshall_islands,false
+Mauritania,mauritania,false
+Mauritius,mauritius,false
+Mexico,mexico,false
+Micronesia,micronesia,false
+Moldova,moldova,false
+Monaco,monaco,false
+Mongolia,mongolia,false
+Montenegro,montenegro,false
+Morocco,morocco,false
+Mozambique,mozambique,false
+Myanmar,myanmar,false
+Namibia,namibia,false
+Nauru,nauru,false
+Nepal,nepal,false
+Netherlands,netherlands,false
+New Zealand,new_zealand,false
+Nicaragua,nicaragua,false
+Niger,niger,false
+Nigeria,nigeria,false
+North Macedonia,north_macedonia,false
+Norway,norway,false
+Oman,oman,false
+Pakistan,pakistan,false
+Palau,palau,false
+Panama,panama,false
+Papua New Guinea,papua_new_guinea,false
+Paraguay,paraguay,false
+Peru,peru,false
+Philippines,philippines,false
+Poland,poland,false
+Portugal,portugal,false
+Qatar,qatar,false
+Romania,romania,false
+Russia,russia,false
+Rwanda,rwanda,false
+Saint Kitts and Nevis,saint_kitts_and_nevis,false
+Saint Lucia,saint_lucia,false
+Saint Vincent and Grenadines,saint_vincent_and_grenadines,false
+Samoa,samoa,false
+San Marino,san_marino,false
+Sao Tome and Principe,sao_tome_and_principe,false
+Saudi Arabia,saudi_arabia,false
+Senegal,senegal,false
+Serbia,serbia,false
+Seychelles,seychelles,false
+Sierra Leone,sierra_leone,false
+Singapore,singapore,false
+Slovakia,slovakia,false
+Slovenia,slovenia,false
+Solomon Islands,solomon_islands,false
+Somalia,somalia,false
+South Africa,south_africa,false
+South Sudan,south_sudan,false
+Spain,spain,false
+Sri Lanka,sri_lanka,false
+Sudan,sudan,false
+Suriname,suriname,false
+Sweden,sweden,false
+Switzerland,switzerland,false
+Syria,syria,false
+Taiwan,taiwan,false
+Tajikistan,tajikistan,false
+Tanzania,tanzania,false
+Thailand,thailand,false
+Timor-Leste,timor-leste,false
+Togo,togo,false
+Tonga,tonga,false
+Trinidad and Tobago,trinidad_and_tobago,false
+Tunisia,tunisia,false
+Turkey,turkey,false
+Turkmenistan,turkmenistan,false
+Tuvalu,tuvalu,false
+Uganda,uganda,false
+Ukraine,ukraine,false
+United Arab Emirates,united_arab_emirates,false
+United Kingdom,united_kingdom,false
+United States of America,united_states_of_america,false
+Uruguay,uruguay,false
+Uzbekistan,uzbekistan,false
+Vanuatu,vanuatu,false
+Venezuela (Bolivarian Republic),venezuela_(bolivarian_republic),false
+Vietnam,vietnam,false
+Yemen,yemen,false
+Zambia,zambia,false
+Zimbabwe,zimbabwe,false
